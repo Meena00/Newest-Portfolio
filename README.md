@@ -1,4 +1,4 @@
-# Meena Anwar's Portfolio
+# Portfolio
 
 Welcome to my portfolio repository! This project showcases my skills, projects, and educational background in computer science.
 
