@@ -2,16 +2,6 @@
 
 Welcome to my portfolio repository! This project showcases my skills, projects, and educational background in computer science.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Setup Instructions](#setup-instructions)
-- [Contact](#contact)
-- [License](#license)
-
 ## Overview
 
 This portfolio website serves as a digital resume, highlighting my journey, projects, and educational achievements as a computer science student at George Mason University. It aims to demonstrate my passion for software engineering and proficiency in web development technologies.
