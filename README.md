@@ -57,6 +57,7 @@ Technologies used:
 ---
 
 ## Repository Structure
+
 portfolio-website
 │
 ├── index.html
@@ -72,6 +73,7 @@ portfolio-website
 │ │
 │ └── resume
 │ Meena-Resume.pdf
+
 ---
 
 ## Deployment
