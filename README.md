@@ -57,6 +57,21 @@ Technologies used:
 ---
 
 ## Repository Structure
+portfolio-website
+│
+├── index.html
+├── assets
+│ ├── css
+│ │ style.css
+│ │
+│ ├── js
+│ │ script.js
+│ │
+│ ├── images
+│ │ meena-pic.png
+│ │
+│ └── resume
+│ Meena-Resume.pdf
 ---
 
 ## Deployment
