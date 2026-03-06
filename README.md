@@ -1,49 +1,80 @@
-# Portfolio
+# Meena Anwar – Data Analyst Portfolio
 
+This repository contains the source code for my personal portfolio website.
 
-Welcome to my portfolio repository! This project showcases my skills, projects, and educational background in computer science.
+The site presents my background, projects, and experience as a Computational & Data Science student focused on data analytics, machine learning, and research.
 
-## Overview
-
-This portfolio website serves as a digital resume, highlighting my journey, projects, and educational achievements as a computer science student at George Mason University. It aims to demonstrate my passion for software engineering and proficiency in web development technologies.
-
-## Features
-
-- **Dynamic Navigation:** Smooth scrolling and active section highlighting based on scroll position.
-- **Responsive Design:** Ensures optimal viewing experience across various devices.
-- **Project Showcases:** Highlights key projects with descriptions and links to GitHub repositories.
-- **Interactive Elements:** Includes a downloadable resume link and contact options via social media.
-
-## Technologies Used
-
-- HTML5
-- CSS3 (Custom styling and responsive design)
-- JavaScript (DOM manipulation for interactive features)
-- Font Awesome Icons (Enhanced visual elements)
-
-## Project Structure
-
-The project is structured into sections:
-- **Home:** Introduction with a brief about me and social media links.
-- **About:** Detailed personal introduction, educational background, and career aspirations.
-- **Projects:** Showcase of notable projects with descriptions and GitHub links.
-- **Education:** Timeline showcasing academic achievements and professional experience.
-- **Footer:** Contact links and copyright information.
-
-## Setup Instructions
-
-To run this project locally:
-1. Clone this repository.
-2. Open `index.html` in your web browser.
-
-## Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/meena00/) or check out my projects on [GitHub](https://github.com/Meena00).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Live Site:**  
+https://meena00-portfolio.netlify.app
 
 ---
 
-Thank you for visiting my portfolio repository! I look forward to hearing from you and discussing potential opportunities.
+## Overview
+
+This portfolio highlights my work in data analysis and machine learning, including a fraud detection project using large-scale financial transaction datasets.
+
+The site was designed to present projects clearly for recruiters and hiring managers and to provide easy access to my GitHub repositories and professional background.
+
+---
+
+## Featured Projects
+
+### Credit Card Fraud Detection & Fairness Analysis
+
+Machine learning and data analytics project analyzing fraud detection systems using financial transaction datasets.
+
+Key elements of the analysis include:
+
+- Fraud pattern analysis
+- Handling class imbalance in fraud detection datasets
+- Random Forest classification models
+- K-Means clustering for behavioral transaction grouping
+- Evaluation of fairness and bias in fraud detection systems
+
+GitHub Repository:  
+https://github.com/Meena00/credit-card-fraud-detection
+
+---
+
+### Personal Portfolio Website
+
+A responsive portfolio website built to showcase projects and professional experience.
+
+Features include:
+
+- Project showcase for data analytics work
+- Responsive design
+- GitHub and LinkedIn integration
+- Netlify deployment with automatic builds
+
+Technologies used:
+
+- HTML
+- CSS
+- JavaScript
+- Netlify
+
+---
+
+## Repository Structure
+---
+
+## Deployment
+
+The website is deployed using Netlify with automatic deployments from GitHub.
+
+Each push to the main branch triggers a new deployment.
+
+---
+
+## Author
+
+**Meena Anwar**  
+BS Computational & Data Science  
+George Mason University
+
+LinkedIn  
+https://www.linkedin.com/in/meena00
+
+GitHub  
+https://github.com/Meena00
